@@ -16,15 +16,6 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamptdr001&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamptdr001&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamptdr001&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/shubham-patidar-479417229/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -49,31 +40,6 @@ I enjoy building scalable software solutions using **AI/ML ,Mern Development, Ja
 * 🧠 Strong foundation in **Data Structures & Algorithms**
 * ⚡ Passionate about writing clean, maintainable, and efficient code
 * 🤝 Open to Internship and Full-Time Software Engineering opportunities
-
----
-
-## 📚 Education
-
-**National Institute of Technology Patna**
-**Master of Computer Applications (MCA)**
-📍 Patna, Bihar
-
-**Duration:** Aug 2024 – May 2027
-
-### Relevant Coursework
-
-* Data Structures & Algorithms
-* Object-Oriented Programming (Java)
-* Operating Systems
-* Database Management Systems
-* Computer Networks
-* Machine Learning
-* Artificial Intelligence
-* Deep Learning
-* Natural Language Processing
-* Web Programming
-* Mobile Application Development
-* Internet of Things
 
 ---
 
@@ -117,57 +83,15 @@ OpenAI API • LangChain • RAG • Semantic Search • TensorFlow • PyTorch 
 
 ---
 
-# 🚀 Featured Projects
-
-## 📝 Quiz Management System
-
-**Java | Java Swing | JDBC | MySQL**
-
-A desktop-based quiz management application developed using Java Swing and MySQL.
-
-### Key Features
-
-* 🎯 Interactive multi-window GUI
-* ⏱ Real-time countdown timer
-* 📊 Automatic score calculation
-* 🗄 MySQL database integration
-* ⚡ Optimized query execution (<35 ms)
-* 🔄 Smooth navigation between User, Quiz, and Result modules
-
----
-
-## 📈 Currently Working On
-
-* 🌱 Spring Boot Projects
-* ☁️ Microservices Architecture
-* 🐳 Docker & AWS
-* 📚 Advanced DSA
-* 🔥 Full Stack Java Development
-
----
-
 ## 📊 GitHub Analytics
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamptdr001&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamptdr001&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamptdr001&layout=compact&theme=tokyonight"/>
+</p>
 ---
-
-## 🏆 Highlights
-
-* 🎓 MCA Student at **NIT Patna**
-* 💻 Built Java Desktop and MERN Stack Applications
-* 📚 Strong understanding of OOP, DBMS, Operating Systems & Computer Networks
-* 🚀 Passionate about Java Full Stack Development
-* 🌱 Continuously learning modern software technologies
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: **[shubhamptdr619@gmail.com](mailto:shubhamptdr619@gmail.com)**
-
-💼 LinkedIn: https://www.linkedin.com/in/shubham-patidar-479417229/
-
----
-
 ## 💡 Developer Quote
 
 > *"Code. Learn. Build. Repeat."*
