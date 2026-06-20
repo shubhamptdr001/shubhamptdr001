@@ -24,15 +24,12 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
-# Hi there 👋, I'm **Shubham Patidar**
-
----
 
 ## 🚀 About Me
 
 🎓 I'm pursuing a **Master of Computer Applications (MCA)** at **National Institute of Technology (NIT) Patna** (2024–2027).
 
-I enjoy building scalable software solutions using **AI/ML ,Mern Development, Java, and MySQL**. I love transforming ideas into practical applications and continuously improving my knowledge of software engineering, backend development, and data structures.
+I enjoy building scalable software solutions using **AI/ML, Mern Development, Java, and MySQL**. I love transforming ideas into practical applications and continuously improving my knowledge of software engineering, backend development, and data structures.
 
 * 🎓 MCA @ National Institute of Technology Patna
 * 💻 Interested in Software Development & Backend Engineering
@@ -84,14 +81,18 @@ OpenAI API • LangChain • RAG • Semantic Search • TensorFlow • PyTorch 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhamptdr001&show_icons=true&theme=tokyonight"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamptdr001&theme=tokyonight"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamptdr001&layout=compact&theme=tokyonight"/>
 </p>
+
 ---
+
 ## 💡 Developer Quote
 
 > *"Code. Learn. Build. Repeat."*
@@ -99,3 +100,4 @@ OpenAI API • LangChain • RAG • Semantic Search • TensorFlow • PyTorch 
 ---
 
 ⭐ If you like my work, consider giving a star to my repositories!
+
