@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shubham+Patidar;MCA+Student+at+NIT+Patna;AI+/+ML+Engineer;Full+Stack+Developer+%7C+React+%7C+MySQL;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shubham+Patidar;MCA+Student+at+NIT+Patna;Software+Engineer;Full+Stack+Developer+%7C+AI/ML;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
