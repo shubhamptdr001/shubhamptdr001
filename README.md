@@ -51,13 +51,13 @@ Java • C++ • Python • JavaScript • SQL • Bash
 ### ⚙️ Backend
 
 ```text
-Spring Boot • Spring MVC • JDBC • Node.js • Express.js • REST APIs
+ JDBC • Node.js • Express.js • REST APIs
 ```
 
 ### 🎨 Frontend
 
 ```text
-React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Vite
+React.js • HTML5 • CSS3 • Tailwind CSS • Vite
 ```
 
 ### 🗄 Databases
@@ -69,7 +69,7 @@ MySQL • MongoDB • PostgreSQL • SQLite
 ### ☁️ Tools & Technologies
 
 ```text
-Git • GitHub • Docker • Postman • Maven • VS Code • IntelliJ IDEA • Eclipse • LaTeX
+Git • GitHub • Docker • VS Code • IntelliJ IDEA • Eclipse • LaTeX
 ```
 
 ### 🤖 AI / ML
